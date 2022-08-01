@@ -7,14 +7,13 @@ body{
 
 .bg-img{
     background-image: url("birthday 3.jpg");
-    background-size: cover;
     background-repeat: no-repeat;
     
 }
 textarea{
     display: flex;
     height: 3rem;
-    width: 50vh;
+    width: 30vh;
     padding: 4rem;
     font-size: 3rem;
     border: 5px solid black;
